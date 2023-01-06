@@ -1,8 +1,9 @@
 🙋🏻‍♀️ABOUT ME 
 
-- 👋 Hi, I’m Rosalba, a data analyst enthusiast. 
+- 👋 Hi, I’m Rosalba, a self-tought data analyst and SQL enthusiast from Miami. 
 - 👀 I’m currently looking for a full time job as a data analyst.
-- 👩🏻‍🎓 Bachelor Degree in Business Administration. 
+- 👩🏻‍🎓 Bachelor Degree in Business Administration with background in banking and real estates. 
+- 📊 I love working with data and learning new skills.
 - 🌱 I’m currently learning Data Analytics.
 
 - 🤓 SKILLS: Research, Communication, Problem solving, attention to detail, critical thinking. 
