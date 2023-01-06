@@ -4,7 +4,7 @@
 - 👀 I’m currently looking for a full time job as a data analyst.
 - 👩🏻‍🎓 Bachelor Degree in Business Administration with background in banking and real estates. 
 - 📊 I love working with data and learning new skills.
-- 🌱 I’m currently learning Data Analytics.
+- 🌱 I’m currently working on new projects.
 
 - 🤓 SKILLS: Research, Communication, Problem solving, attention to detail, critical thinking. 
 
