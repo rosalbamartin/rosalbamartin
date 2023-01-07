@@ -12,8 +12,7 @@
 
 💻PROJECTS
 
--  View my projects [here](https://github.com/rosalbamartin?tab=repositories)
--  View my data visualizations on Tableau Public [here](https://public.tableau.com/app/profile/rosalba.martin)
+-  View my projects guide [here](https://github.com/rosalbamartin?tab=repositories)
 
 📩 LET'S CONNECT
 
